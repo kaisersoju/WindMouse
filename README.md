@@ -1,6 +1,6 @@
 # ChatGPT helped me code an aimbot faster
 
-I was looking into novel a way of making an existing aimbot more human-like and found an ideal candidate: `https://ben.land/post/2021/04/25/windmouse-human-mouse-movement/`
+I was looking into novel a way of making an existing aimbot more human-like and found an ideal candidate: [https://ben.land/post/2021/04/25/windmouse-human-mouse-movement/](https://ben.land/post/2021/04/25/windmouse-human-mouse-movement/)
 
 WindMouse is pretty interesting and I wanted to try it out. Except I had one small problem. My existing aimbot was coded in c++ so I would need to translate python code to c++ before I can even begin. And that to me didn’t seem very fun or very good use of my time. I heard somewhere that ChatGPT has a knack for doing this type of work so I fired up the bot and quickly got this:
 
@@ -91,3 +91,5 @@ I would like to conclude that wind_mouse for c/c++ is pretty cool and worked qui
 :::
 
 Notes: I used ekknod’s EC base for features including the basic smoothing for aim that I supplemented with this wind_mouse function. My goal wasn’t to get a super accurate or fast aiming but to make the aimbot less distinguishable from my own mouse movements when manually reviewed (as if that’s any real concern for any of us). Lot’s of you might think you need ML to create a humanized version but this old code proves that a few simple physics formulas works just as well. To this end, I’ve scratched an itch. Maybe ChatGPT will do the same for you?
+
+[https://streamable.com/1rbce4?src=player-page-share](https://streamable.com/1rbce4?src=player-page-share)
